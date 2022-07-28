@@ -343,7 +343,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 5, y: 91}
+  m_AnchoredPosition: {x: 5, y: 130}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &616305680
@@ -1002,8 +1002,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Play
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ea307c7ec28054c448fa3d00f0d7db10, type: 2}
-  m_sharedMaterial: {fileID: -8578542665760306373, guid: ea307c7ec28054c448fa3d00f0d7db10, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 25a770302df5d0745b60f1a7fdee4bbb, type: 2}
+  m_sharedMaterial: {fileID: 8674273923403962836, guid: 25a770302df5d0745b60f1a7fdee4bbb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1027,8 +1027,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 22
+  m_fontSizeBase: 22
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
